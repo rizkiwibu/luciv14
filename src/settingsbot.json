@@ -9,7 +9,7 @@
 "readP": true,
 "regisinfo": false,
 "autoregis": false,
-"multi": false,
+"multi": true,
 "mainmenu": false,
 "banChats": false,
 "autorespon": false,
